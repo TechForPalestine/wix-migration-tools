@@ -1,0 +1,5 @@
+amno.mn
+banjig.mn
+canam.mn
+cardoctor.mn
+zigzag.mn
